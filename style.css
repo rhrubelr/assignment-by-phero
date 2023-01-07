@@ -8,7 +8,7 @@ header{
     height: 800px;
     margin:0 auto;
     padding:80px ;
-    background-image: url(../new-year-new-me/images/banner/banner1.png);
+    background-image: url(./images/banner/banner1.png);
     background-repeat: no-repeat;
 }
 .header-text{
@@ -60,7 +60,7 @@ main{
     width: 80%;
     height: 750px;
     margin:0 auto;
-    background-image: url(../new-year-new-me/images/person.png);
+    background-image: url(./images/person.png);
     background-repeat: no-repeat;
     background-position: left;
 }
@@ -159,7 +159,7 @@ main{
     background-position: center;
     padding:70px;
     background: linear-gradient(to left, rgba(184, 10, 10, 0), rgba(255,0,0,0.8)),
-    url(../new-year-new-me/images/watch.png) ;
+    url(./images/watch.png) ;
     margin-bottom: 30px;
 }
 
